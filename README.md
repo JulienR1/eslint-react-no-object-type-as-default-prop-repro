@@ -1,5 +1,7 @@
 # `react/no-object-type-as-default-prop` reproduction
 
+Reported issue: https://github.com/jsx-eslint/eslint-plugin-react/issues/3767.
+
 See [App.jsx](src/App.jsx) for the test setup.
 
 Run `npm run lint` to get the output.
